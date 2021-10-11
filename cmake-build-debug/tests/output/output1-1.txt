@@ -1,0 +1,22 @@
+Filled container:
+Container contains 20 elements.
+1: It is a polar coordinates number: Length = 15, Radians = 1. Real representation = 15
+2: It is complex number: Real part = 14, imaginary = -5. Real representation = 14.8661
+3: It is a polar coordinates number: Length = -5, Radians = -3. Real representation = -5
+4: It is a rational number: -5/1. Real representation = -5
+5: It is a rational number: -7/12. Real representation = -0.583333
+6: It is complex number: Real part = -7, imaginary = -18. Real representation = 19.3132
+7: It is a polar coordinates number: Length = 1, Radians = 10. Real representation = 1
+8: It is a polar coordinates number: Length = -7, Radians = -3. Real representation = -7
+9: It is complex number: Real part = -17, imaginary = 18. Real representation = 24.7588
+10: It is a polar coordinates number: Length = -3, Radians = 17. Real representation = -3
+11: It is a rational number: 6/-2. Real representation = -3
+12: It is complex number: Real part = -8, imaginary = -12. Real representation = 14.4222
+13: It is a polar coordinates number: Length = 19, Radians = -6. Real representation = 19
+14: It is a polar coordinates number: Length = -5, Radians = 7. Real representation = -5
+15: It is a polar coordinates number: Length = 17, Radians = -1. Real representation = 17
+16: It is a rational number: -17/-1. Real representation = 17
+17: It is complex number: Real part = -12, imaginary = -16. Real representation = 20
+18: It is a polar coordinates number: Length = 0, Radians = -3. Real representation = 0
+19: It is complex number: Real part = 9, imaginary = -15. Real representation = 17.4929
+20: It is a polar coordinates number: Length = -8, Radians = -9. Real representation = -8

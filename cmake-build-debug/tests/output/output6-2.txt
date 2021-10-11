@@ -1,0 +1,11 @@
+Container is sorted
+Real representation Average: inf
+Sorted container:
+Container contains 7 elements.
+1: It is complex number: Real part = 0, imaginary = 0. Real representation = 0
+2: It is a rational number: 3/0. Real representation = inf
+3: It is a polar coordinates number: Length = 9, Radians = 9. Real representation = 9
+4: It is complex number: Real part = 5, imaginary = 5. Real representation = 7.07107
+5: It is complex number: Real part = 4, imaginary = 7. Real representation = 8.06226
+6: It is complex number: Real part = 8, imaginary = -9. Real representation = 12.0416
+7: It is complex number: Real part = 3.10618e-310, imaginary = 0. Real representation = 0

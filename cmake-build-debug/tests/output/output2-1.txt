@@ -1,0 +1,8 @@
+Filled container:
+Container contains 6 elements.
+1: It is complex number: Real part = 10, imaginary = 10. Real representation = 14.1421
+2: It is complex number: Real part = 5, imaginary = -5. Real representation = 7.07107
+3: It is complex number: Real part = 9, imaginary = -2. Real representation = 9.21954
+4: It is complex number: Real part = 3, imaginary = 4. Real representation = 5
+5: It is complex number: Real part = 5, imaginary = 6. Real representation = 7.81025
+6: It is complex number: Real part = 12, imaginary = -70. Real representation = 71.0211

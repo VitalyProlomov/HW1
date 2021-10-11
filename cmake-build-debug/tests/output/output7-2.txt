@@ -1,0 +1,5 @@
+Container is sorted
+Real representation Average: 0.315789
+Sorted container:
+Container contains 1 elements.
+1: It is a rational number: 6/19. Real representation = 0.315789
